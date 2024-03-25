@@ -1,0 +1,10 @@
+﻿6/1/2021
+* Se agregó el feature de tomar la ruta a las etiquetas desde el archivo de configuracion
+* Si la ruta no termina en contrabarra (p/e "d:\etiquetas") la aplicación le agrega la contrabarra al usuarla ("d:\etiquetas\")
+* Mejoré el manejo de errores al determinar el archivo ZPL asignado a una etiqueta
+* Cuando no pueda cargar los productos, ahora avisa con un mensaje en el mismo combo
+* Solucioné un bug que hacía que no cargue en el control de cantidad de copias el valor que figuraba en el XML
+* Comenté el código de cada método de la clase AccesoSQL 
+* Carga el combo de impresoras con todas las impresoras instaladas en el sistema
+* La impresora que figure en el XML de configuracion será la que seleccione en el combo (una suerte de default)
+* Si la impresora del XML no existe, se selecciona como default en el combo la misma que sea default en Windows

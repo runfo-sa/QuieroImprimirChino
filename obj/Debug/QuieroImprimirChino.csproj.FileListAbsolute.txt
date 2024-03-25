@@ -1,0 +1,50 @@
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\bin\Debug\QuieroImprimirChino.exe.config
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\bin\Debug\QuieroImprimirChino.exe
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\bin\Debug\QuieroImprimirChino.pdb
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.csprojResolveAssemblyReference.cache
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.Form1.resources
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.Cache
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.exe
+C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.pdb
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\bin\Debug\QuieroImprimirChino.exe.config
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.exe
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.pdb
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\bin\Debug\QuieroImprimirChino.exe
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\bin\Debug\QuieroImprimirChino.pdb
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.csprojResolveAssemblyReference.cache
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.Cache
+C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe.config
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.exe
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.pdb
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.pdb
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csprojResolveAssemblyReference.cache
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.Cache
+D:\Soft\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe.config
+D:\Soft\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe
+D:\Soft\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.pdb
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.exe
+D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.pdb
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe.config
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.pdb
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.exe
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.pdb
+D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\conexion.config

@@ -1,0 +1,19 @@
+﻿Manejar la ruta de las etiquetas de forma inteligente
+	- leerlo del archivo de configuracion
+	- sino buscarlo en la ubicacion de instalacion de pi4
+
+
+Redimensionado inteligente de la ventana y controles
+
+Un icono lindo
+
+Parametrizar la conexion SQL de otra forma
+
+Un boton "guardar" que guarde la config de copias e impresora en el XML
+o
+Abrir un dialogo aparte para la configuracion
+	- impresora
+	- copias default
+	- ruta a las etiquetas
+
+El manejo de ConfigurationManager seria ideal que exista en una clase aparte
