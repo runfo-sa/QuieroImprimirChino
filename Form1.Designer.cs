@@ -39,34 +39,31 @@
             this.numericCopias = new System.Windows.Forms.NumericUpDown();
             this.lblCopias = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.labelFechaFaena = new System.Windows.Forms.Label();
-            this.dateTimePickerFaena = new System.Windows.Forms.DateTimePicker();
-            this.CategoriaCombo = new System.Windows.Forms.ComboBox();
-            this.ActualizarMercaderiaBoton = new System.Windows.Forms.Button();
+            this.btnAcercaDe = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.Lbl_Version = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericCopias)).BeginInit();
             this.SuspendLayout();
             // 
             // comboMercaderias
             // 
-            this.comboMercaderias.BackColor = System.Drawing.SystemColors.Window;
-            this.comboMercaderias.DropDownHeight = 150;
-            this.comboMercaderias.Font = new System.Drawing.Font("Tahoma", 16F);
+            this.comboMercaderias.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboMercaderias.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboMercaderias.FormattingEnabled = true;
-            this.comboMercaderias.IntegralHeight = false;
-            this.comboMercaderias.ItemHeight = 25;
-            this.comboMercaderias.Location = new System.Drawing.Point(191, 196);
+            this.comboMercaderias.Location = new System.Drawing.Point(238, 179);
             this.comboMercaderias.Name = "comboMercaderias";
-            this.comboMercaderias.Size = new System.Drawing.Size(496, 33);
-            this.comboMercaderias.TabIndex = 3;
+            this.comboMercaderias.Size = new System.Drawing.Size(364, 27);
+            this.comboMercaderias.TabIndex = 2;
+            this.comboMercaderias.SelectedIndexChanged += new System.EventHandler(this.comboMercaderias_SelectedIndexChanged);
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Font = new System.Drawing.Font("Tahoma", 18F);
-            this.dateTimePicker1.Location = new System.Drawing.Point(191, 103);
+            this.dateTimePicker1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateTimePicker1.Location = new System.Drawing.Point(238, 111);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(312, 36);
-            this.dateTimePicker1.TabIndex = 1;
-            this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
+            this.dateTimePicker1.Size = new System.Drawing.Size(364, 27);
+            this.dateTimePicker1.TabIndex = 4;
             // 
             // btnImprimir
             // 
@@ -74,19 +71,20 @@
             this.btnImprimir.Location = new System.Drawing.Point(238, 373);
             this.btnImprimir.Name = "btnImprimir";
             this.btnImprimir.Size = new System.Drawing.Size(136, 35);
-            this.btnImprimir.TabIndex = 6;
+            this.btnImprimir.TabIndex = 5;
             this.btnImprimir.Text = "Imprimir";
             this.btnImprimir.UseVisualStyleBackColor = true;
             this.btnImprimir.Click += new System.EventHandler(this.btnImprimir_Click);
             // 
             // comboImpresoras
             // 
-            this.comboImpresoras.Font = new System.Drawing.Font("Tahoma", 14F);
+            this.comboImpresoras.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboImpresoras.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboImpresoras.FormattingEnabled = true;
-            this.comboImpresoras.Location = new System.Drawing.Point(191, 249);
+            this.comboImpresoras.Location = new System.Drawing.Point(238, 243);
             this.comboImpresoras.Name = "comboImpresoras";
-            this.comboImpresoras.Size = new System.Drawing.Size(364, 31);
-            this.comboImpresoras.TabIndex = 4;
+            this.comboImpresoras.Size = new System.Drawing.Size(364, 27);
+            this.comboImpresoras.TabIndex = 10;
             // 
             // lblFecha
             // 
@@ -94,7 +92,7 @@
             this.lblFecha.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.lblFecha.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblFecha.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblFecha.Location = new System.Drawing.Point(12, 111);
+            this.lblFecha.Location = new System.Drawing.Point(48, 115);
             this.lblFecha.Name = "lblFecha";
             this.lblFecha.Size = new System.Drawing.Size(160, 19);
             this.lblFecha.TabIndex = 11;
@@ -106,7 +104,7 @@
             this.lblMercaderia.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.lblMercaderia.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMercaderia.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblMercaderia.Location = new System.Drawing.Point(12, 207);
+            this.lblMercaderia.Location = new System.Drawing.Point(48, 179);
             this.lblMercaderia.Name = "lblMercaderia";
             this.lblMercaderia.Size = new System.Drawing.Size(78, 19);
             this.lblMercaderia.TabIndex = 12;
@@ -118,7 +116,7 @@
             this.lblImpresora.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.lblImpresora.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblImpresora.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblImpresora.Location = new System.Drawing.Point(12, 255);
+            this.lblImpresora.Location = new System.Drawing.Point(48, 243);
             this.lblImpresora.Name = "lblImpresora";
             this.lblImpresora.Size = new System.Drawing.Size(88, 19);
             this.lblImpresora.TabIndex = 13;
@@ -127,7 +125,7 @@
             // numericCopias
             // 
             this.numericCopias.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericCopias.Location = new System.Drawing.Point(238, 303);
+            this.numericCopias.Location = new System.Drawing.Point(238, 306);
             this.numericCopias.Maximum = new decimal(new int[] {
             50,
             0,
@@ -140,7 +138,7 @@
             0});
             this.numericCopias.Name = "numericCopias";
             this.numericCopias.Size = new System.Drawing.Size(76, 40);
-            this.numericCopias.TabIndex = 5;
+            this.numericCopias.TabIndex = 14;
             this.numericCopias.Value = new decimal(new int[] {
             1,
             0,
@@ -153,7 +151,7 @@
             this.lblCopias.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.lblCopias.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCopias.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblCopias.Location = new System.Drawing.Point(12, 303);
+            this.lblCopias.Location = new System.Drawing.Point(48, 307);
             this.lblCopias.Name = "lblCopias";
             this.lblCopias.Size = new System.Drawing.Size(62, 19);
             this.lblCopias.TabIndex = 15;
@@ -165,53 +163,59 @@
             this.label1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Demi", 28F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label1.Location = new System.Drawing.Point(102, 9);
+            this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(499, 44);
+            this.label1.Size = new System.Drawing.Size(579, 44);
             this.label1.TabIndex = 16;
-            this.label1.Text = "Etiquetas de caja para Israel";
+            this.label1.Text = "Etiquetas alto impacto PREMIUM";
             // 
-            // labelFechaFaena
+            // btnAcercaDe
             // 
-            this.labelFechaFaena.AutoSize = true;
-            this.labelFechaFaena.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.labelFechaFaena.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelFechaFaena.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.labelFechaFaena.Location = new System.Drawing.Point(12, 159);
-            this.labelFechaFaena.Name = "labelFechaFaena";
-            this.labelFechaFaena.Size = new System.Drawing.Size(120, 19);
-            this.labelFechaFaena.TabIndex = 18;
-            this.labelFechaFaena.Text = "Fecha de faena:";
+            this.btnAcercaDe.FlatAppearance.BorderSize = 0;
+            this.btnAcercaDe.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
+            this.btnAcercaDe.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.btnAcercaDe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAcercaDe.Image = ((System.Drawing.Image)(resources.GetObject("btnAcercaDe.Image")));
+            this.btnAcercaDe.Location = new System.Drawing.Point(3, 390);
+            this.btnAcercaDe.Name = "btnAcercaDe";
+            this.btnAcercaDe.Size = new System.Drawing.Size(43, 43);
+            this.btnAcercaDe.TabIndex = 17;
+            this.btnAcercaDe.UseVisualStyleBackColor = true;
+            this.btnAcercaDe.Click += new System.EventHandler(this.btnAcercaDe_Click);
             // 
-            // dateTimePickerFaena
+            // button1
             // 
-            this.dateTimePickerFaena.Font = new System.Drawing.Font("Tahoma", 18F);
-            this.dateTimePickerFaena.Location = new System.Drawing.Point(191, 145);
-            this.dateTimePickerFaena.Name = "dateTimePickerFaena";
-            this.dateTimePickerFaena.Size = new System.Drawing.Size(312, 36);
-            this.dateTimePickerFaena.TabIndex = 2;
+            this.button1.Location = new System.Drawing.Point(467, 300);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(135, 26);
+            this.button1.TabIndex = 18;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Visible = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // CategoriaCombo
+            // button2
             // 
-            this.CategoriaCombo.BackColor = System.Drawing.Color.Lime;
-            this.CategoriaCombo.Font = new System.Drawing.Font("Tahoma", 16F);
-            this.CategoriaCombo.FormattingEnabled = true;
-            this.CategoriaCombo.IntegralHeight = false;
-            this.CategoriaCombo.ItemHeight = 25;
-            this.CategoriaCombo.Location = new System.Drawing.Point(462, 327);
-            this.CategoriaCombo.Name = "CategoriaCombo";
-            this.CategoriaCombo.Size = new System.Drawing.Size(225, 33);
-            this.CategoriaCombo.TabIndex = 21;
+            this.button2.Location = new System.Drawing.Point(467, 346);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(135, 30);
+            this.button2.TabIndex = 19;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Visible = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // ActualizarMercaderiaBoton
+            // Lbl_Version
             // 
-            this.ActualizarMercaderiaBoton.Location = new System.Drawing.Point(536, 384);
-            this.ActualizarMercaderiaBoton.Name = "ActualizarMercaderiaBoton";
-            this.ActualizarMercaderiaBoton.Size = new System.Drawing.Size(75, 36);
-            this.ActualizarMercaderiaBoton.TabIndex = 22;
-            this.ActualizarMercaderiaBoton.Text = "Buscar";
-            this.ActualizarMercaderiaBoton.UseVisualStyleBackColor = true;
-            this.ActualizarMercaderiaBoton.Click += new System.EventHandler(this.ActualizarMercaderiaBoton_Click);
+            this.Lbl_Version.AutoSize = true;
+            this.Lbl_Version.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.Lbl_Version.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Lbl_Version.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.Lbl_Version.Location = new System.Drawing.Point(52, 418);
+            this.Lbl_Version.Name = "Lbl_Version";
+            this.Lbl_Version.Size = new System.Drawing.Size(17, 19);
+            this.Lbl_Version.TabIndex = 20;
+            this.Lbl_Version.Text = "v";
             // 
             // frmEtiquetasIsrael
             // 
@@ -219,11 +223,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(699, 432);
-            this.Controls.Add(this.ActualizarMercaderiaBoton);
-            this.Controls.Add(this.CategoriaCombo);
-            this.Controls.Add(this.labelFechaFaena);
-            this.Controls.Add(this.dateTimePickerFaena);
+            this.ClientSize = new System.Drawing.Size(631, 436);
+            this.Controls.Add(this.Lbl_Version);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnAcercaDe);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblCopias);
             this.Controls.Add(this.numericCopias);
@@ -235,9 +239,11 @@
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.comboMercaderias);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "frmEtiquetasIsrael";
-            this.Text = "Runfo SA - Impresion de etiquetas ISRAEL";
+            this.Text = "OFFAL EXP SA - Impresion de etiquetas PREMIUM";
+            this.Load += new System.EventHandler(this.frmEtiquetasIsrael_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericCopias)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -256,10 +262,10 @@
         private System.Windows.Forms.NumericUpDown numericCopias;
         private System.Windows.Forms.Label lblCopias;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label labelFechaFaena;
-        private System.Windows.Forms.DateTimePicker dateTimePickerFaena;
-        private System.Windows.Forms.ComboBox CategoriaCombo;
-        private System.Windows.Forms.Button ActualizarMercaderiaBoton;
+        private System.Windows.Forms.Button btnAcercaDe;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label Lbl_Version;
     }
 }
 

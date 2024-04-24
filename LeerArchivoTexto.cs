@@ -18,8 +18,7 @@ namespace QuieroImprimirChino
                 mensaje = "";
             return mensaje;
         }
-        public bool cargar(String archivoFormato) {
-            bool retorno = false;
+        public String cargar(String archivoFormato) {
             mensaje = "";
             if (archivoFormato == null)
                 mensaje = "No se proveyó una ruta y nombre de archivo (nulo)";
@@ -28,7 +27,6 @@ namespace QuieroImprimirChino
                 try
                 {
                     textoZPL = System.IO.File.ReadAllText(archivoFormato);
-                    retorno = true;
                 }
                 catch (UnauthorizedAccessException)
                 {
@@ -58,7 +56,7 @@ namespace QuieroImprimirChino
                         mensaje = "Excepcion ocurrida:\nError code: " + e.Message + "(" + archivoFormato + ").";
                 }
             }
-            return retorno;
+            return mensaje;
         }
         public void reemplazarTexto(String buscar, String reemplazar)
         {

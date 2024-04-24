@@ -1,50 +1,108 @@
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\bin\Debug\QuieroImprimirChino.exe.config
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\bin\Debug\QuieroImprimirChino.exe
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\bin\Debug\QuieroImprimirChino.pdb
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.csprojResolveAssemblyReference.cache
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.Form1.resources
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.Cache
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.exe
-C:\Users\jhnatiuk\Dropbox\Projects\QuieroImprimirChino\QuieroImprimirChino\obj\Debug\QuieroImprimirChino.pdb
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\bin\Debug\QuieroImprimirChino.exe.config
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.exe
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.pdb
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\bin\Debug\QuieroImprimirChino.exe
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\bin\Debug\QuieroImprimirChino.pdb
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.csprojResolveAssemblyReference.cache
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.Cache
-C:\Users\jhnatiuk\Desktop\Nueva carpeta\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe.config
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.exe
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.pdb
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.pdb
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csprojResolveAssemblyReference.cache
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
-Z:\Sistemas\Etiquetas\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.Cache
-D:\Soft\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe.config
-D:\Soft\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe
-D:\Soft\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.pdb
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.exe
-D:\Soft\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.pdb
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe.config
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.exe
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\QuieroImprimirChino.pdb
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.exe
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\obj\Debug\QuieroImprimirChino.pdb
-D:\DesarrollosRunfescos\QuieroImprimirChino [Fuente]\bin\Debug\conexion.config
+X:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.config
+X:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.manifest
+X:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.application
+X:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe
+X:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.pdb
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.TrustInfo.xml
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe.manifest
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.application
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+X:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+\\bruce.offalexp\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+\\bruce.offalexp\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+\\bruce.offalexp\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+\\bruce.offalexp\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.config
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.manifest
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.application
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.pdb
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.TrustInfo.xml
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe.manifest
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.application
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+\\bruce\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+\\192.168.97.42\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+\\192.168.97.42\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+\\192.168.97.42\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+\\192.168.97.42\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.TrustInfo.xml
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+C:\Soft\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.config
+C:\Soft\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.manifest
+C:\Soft\EtiquetasPremium\bin\Debug\QuieroImprimirChino.application
+C:\Soft\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe
+C:\Soft\EtiquetasPremium\bin\Debug\QuieroImprimirChino.pdb
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe.manifest
+C:\Soft\EtiquetasPremium\obj\Debug\QuieroImprimirChino.application
+Y:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.config
+Y:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.manifest
+Y:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.application
+Y:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe
+Y:\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.pdb
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.TrustInfo.xml
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe.manifest
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.application
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+Y:\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.config
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.manifest
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.application
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.pdb
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.SuggestedBindingRedirects.cache
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.TrustInfo.xml
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe.manifest
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.application
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+\\storeonce\Sistemas\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.config
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe.manifest
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.application
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.exe
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\bin\Debug\QuieroImprimirChino.pdb
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.AssemblyReference.cache
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.frmEtiquetasIsrael.resources
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.Properties.Resources.resources
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.GenerateResource.cache
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.csproj.CoreCompileInputs.cache
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.TrustInfo.xml
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe.manifest
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.application
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.exe
+Y:\Sistemas\Soft\Programitas De Propia Autoria\EtiquetasPremium\obj\Debug\QuieroImprimirChino.pdb
+Y:\Programitas De Propia Autoria\etiquetas_premium2\QuieroImprimirChino.exe.config
+Y:\Programitas De Propia Autoria\etiquetas_premium2\QuieroImprimirChino.exe.manifest
+Y:\Programitas De Propia Autoria\etiquetas_premium2\QuieroImprimirChino.application
+Y:\Programitas De Propia Autoria\etiquetas_premium2\QuieroImprimirChino.exe
+Y:\Programitas De Propia Autoria\etiquetas_premium2\QuieroImprimirChino.pdb

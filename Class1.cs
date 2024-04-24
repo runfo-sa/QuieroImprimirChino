@@ -106,5 +106,19 @@ namespace ImpresionChino
             SendBytesToPrinter(szPrinterName, pBytes, dwCount);
             Marshal.FreeCoTaskMem(pBytes);
         }
+        public static bool SendTextFileToPrinter(string printerName, string szFileName)
+        {
+            var sb = new System.Text.StringBuilder();
+
+            using (var sr = new StreamReader(szFileName, System.Text.Encoding.Default))
+            {
+                while (!sr.EndOfStream)
+                {
+                    sb.AppendLine(sr.ReadLine());
+                }
+            }
+            RawPrinterHelper.SendStringToPrinter(printerName, sb.ToString());
+            return true;
+        }
     }
 }

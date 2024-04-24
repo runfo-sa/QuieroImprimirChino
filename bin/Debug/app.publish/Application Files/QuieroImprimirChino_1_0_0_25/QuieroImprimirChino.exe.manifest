@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="QuieroImprimirChino.exe" version="1.0.0.25" publicKeyToken="89e1259366b19635" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="QuieroImprimirChino" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="QuieroImprimirChino.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto de Control de cuentas de usuario
+             Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+             nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            La especificación del nodo requestedExecutionLevel deshabilitará la virtualización de archivos y del Registro.
+            Si desea usar la virtualización de archivos y del Registro para la compatibilidad 
+            con versiones anteriores, elimine el nodo requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuieroImprimirChino.exe" size="253952">
+      <assemblyIdentity name="QuieroImprimirChino" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>FCvX/we8viN+MaThhu/UptGmBpyPTBBmLp/iC2K0/ik=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Changelog.txt" size="1370">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xAhk4v7uW4Li8W9hqPWk8+udPmC+PK3FTLZEMa6Ub+k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="QuieroImprimirChino.exe.config" size="1233">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>f4MToBUlDpXxYUrxJN3NVgO68bPTNfFwL6sWp9MHLiY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ToDo.txt" size="519">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YGEp6eNVGOp6BAJaEUcvBtb75womTeFjgMpmOV1wgcA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Lista de todas las versiones de Windows con las que esta aplicación está diseñada para funcionar. 
+      Windows seleccionará automáticamente el entorno de mayor compatibilidad.-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows Vista, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows 7, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows 8, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=OFFALEXP\nicolas.gutierrez" issuerKeyHash="0c8f34654820a31d218c6242456fa4c32fad4902" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>umSC7Tjd1iUYe1ElD+ZxBA+/bZ2L0aExmx4CL4qAK3E=</DigestValue></Reference></SignedInfo><SignatureValue>z8pBFtFJ5rPDlPOk3rCxL9Plfii6M19kQg33UBntqc5xQEw2Nh6RXxTFjeTzXpihlUPe2Sfo3rv1CRo2KmcjXUlqBvR/t6+gx5PkPH8ipv0LOvOYW/6nzkeq6JHF89QkhCJXuN9UuaDVHXje0GDyqJKQHwfQYQSpTeAmTv+p4F8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7+bzLlsB/O50fEWvt+NsRpC7TqEFdDdHXX8Xns73NPp6wolbJy00XT2dDdk26Ynmxe3KTIOP4cEa0RnsWWYdn3Wm+BcwPJrMlTR8zJ9n2Kv5EKcjQzpz6EFlS/aoS0oaOqArN2xflf+qqO824+bnmHRdEDyt3eiQZiQRWIh53lk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="712b808a2f021e9b31a1d18b9d6dbf0f0471e60f25517b1825d6dd38ed8264ba" Description="" Url=""><as:assemblyIdentity name="QuieroImprimirChino.exe" version="1.0.0.25" publicKeyToken="89e1259366b19635" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=OFFALEXP\nicolas.gutierrez</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wjAKuIsJcGgeZgGJQWaF7B1uI5Yg3vcHNfvCa0aEsvg=</DigestValue></Reference></SignedInfo><SignatureValue>2RQcpzSYIs3D6GzbT4qoKzO5pXIWfSGwbotLIlzS6E1Gwb0NkkfyFN0FZIFyO6sIp5gg+EVT5O4d1qRnYclpELlVeLu9qbYBw+UAqtf5c4y6qpDKiEJ+EaYmcWi4V3VDrRcYBlp66EpdO5WtRCgbVwBWH0uvl25Y8BeoZLVi2Bk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7+bzLlsB/O50fEWvt+NsRpC7TqEFdDdHXX8Xns73NPp6wolbJy00XT2dDdk26Ynmxe3KTIOP4cEa0RnsWWYdn3Wm+BcwPJrMlTR8zJ9n2Kv5EKcjQzpz6EFlS/aoS0oaOqArN2xflf+qqO824+bnmHRdEDyt3eiQZiQRWIh53lk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQZ5/paAW8T6ZHK0ipQ67D8DANBgkqhkiG9w0BAQsFADA/MT0wOwYDVQQDHjQATwBGAEYAQQBMAEUAWABQAFwAbgBpAGMAbwBsAGEAcwAuAGcAdQB0AGkAZQByAHIAZQB6MB4XDTIyMDIwNTExMjY1MloXDTIzMDIwNTE3MjY1MlowPzE9MDsGA1UEAx40AE8ARgBGAEEATABFAFgAUABcAG4AaQBjAG8AbABhAHMALgBnAHUAdABpAGUAcgByAGUAejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA7+bzLlsB/O50fEWvt+NsRpC7TqEFdDdHXX8Xns73NPp6wolbJy00XT2dDdk26Ynmxe3KTIOP4cEa0RnsWWYdn3Wm+BcwPJrMlTR8zJ9n2Kv5EKcjQzpz6EFlS/aoS0oaOqArN2xflf+qqO824+bnmHRdEDyt3eiQZiQRWIh53lkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBztl53d4gLm2ItCAybIlak4HbtQrbQ1P2cB1i1FiA7qvxTOsYoSUzwbur/XcJcv8+IEact9tA8/TfeFmKYTCHzocZqQTVBanwCJrpFGvzq5wr6DB31gLHIpWQPM0Fqb2q1wwQwFWfC+9fbBPVopBtw49fxF0tLPNQs7K+10S6L5g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

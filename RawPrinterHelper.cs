@@ -122,6 +122,20 @@ namespace Impresion
             Marshal.FreeCoTaskMem(pBytes);
             return true;
         }
+        public static bool SendTextFileToPrinter(string printerName, string szFileName)
+        {
+            var sb = new System.Text.StringBuilder();
+
+            using (var sr = new StreamReader(szFileName, System.Text.Encoding.Default))
+            {
+                while (!sr.EndOfStream)
+                {
+                    sb.AppendLine(sr.ReadLine());
+                }
+            }
+
+            return RawPrinterHelper.SendStringToPrinter(printerName, sb.ToString());
+        }
     }
 
 }
